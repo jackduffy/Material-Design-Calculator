@@ -1,0 +1,21 @@
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\Material Design Calculator.exe.config
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\Material Design Calculator.exe
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\Material Design Calculator.pdb
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator.csprojResolveAssemblyReference.cache
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\MainWindow.g.cs
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\App.g.cs
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator_MarkupCompile.cache
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator_MarkupCompile.lref
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\MainWindow.baml
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator.g.resources
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material_Design_Calculator.Properties.Resources.resources
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator.csproj.GenerateResource.Cache
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator.exe
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\Material Design Calculator.pdb
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\MaterialDesignColors.dll
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\obj\Debug\App.baml
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\MahApps.Metro.dll
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\MahApps.Metro.pdb
+D:\Users\Jack_\Documents\GitHub\Material-Design-Calculator\Material Design Calculator\Material Design Calculator\bin\Debug\MahApps.Metro.xml
