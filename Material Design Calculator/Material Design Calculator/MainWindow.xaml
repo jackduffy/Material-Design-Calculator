@@ -7,7 +7,7 @@
         xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
         mc:Ignorable="d" Height="541.667" Width="328.333"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto" NonActiveBorderBrush="#FF0097A7" NonActiveGlowBrush="#FF0097A7" NonActiveWindowTitleBrush="#FF0097A7" TitleCaps="False" WindowTitleBrush="#FF0097A7" Background="#FF636363" ResizeMode="CanMinimize" EnableDWMDropShadow="True" WindowTransitionsEnabled="False">
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto" NonActiveBorderBrush="#FF0097A7" NonActiveGlowBrush="#FF0097A7" NonActiveWindowTitleBrush="#FF0097A7" TitleCaps="False" WindowTitleBrush="#FF0097A7" Background="#FF636363" ResizeMode="CanMinimize" EnableDWMDropShadow="True" WindowTransitionsEnabled="False" Title="Calculator" OverrideDefaultWindowCommandsBrush = "White">
 
     <Grid>
         <Rectangle x:Name="Numpad_Area" HorizontalAlignment="Left" Height="372" Margin="-6,190,0,-14" Stroke="#FF434343" StrokeThickness="0" VerticalAlignment="Top" Width="246" Fill="#FF434343"/>
@@ -44,6 +44,7 @@
         </Rectangle>
         <Label x:Name="Trigonometric_Function" Content="RAD" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top" FontWeight="SemiBold" Foreground="#FF757575"/>
         <TextBlock x:Name="Calculation" Margin="12,0,14,405" Text="9" VerticalAlignment="Bottom" FontSize="58" FontWeight="Light" Foreground="#FF757575" TextAlignment="Right"/>
+        <TextBlock x:Name="Sum" Margin="12,0,14,349" VerticalAlignment="Bottom" FontSize="40" FontWeight="Light" Foreground="#FF757575" TextAlignment="Right"/>
 
     </Grid>
 
